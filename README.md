@@ -3,6 +3,8 @@
 
  Documentation has moved to [marlinfirmware.org](http://www.marlinfirmware.org).
 
+## Marlin 1.0.2-1 Edited with the settings for Folger Tech's Prusa i3 (http://folgertech.com)
+
 ## Release Branch
 
 The Release branch contains the latest tagged version of Marlin (currently 1.0.2-1 – January 2015). It also includes a version 1.0.1 (December 2014). Any version of Marlin before 1.0.1 (when we started tagging versions) can be collectively referred to as Marlin 1.0.0.
